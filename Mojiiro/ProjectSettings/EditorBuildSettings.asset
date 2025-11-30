@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene/Title_Scene.unity
+    guid: 9a6f8d580f63e4c48bf9171bc73c958a
+  - enabled: 1
+    path: Assets/Scenes/Asobikata_Scene/Asobikata.unity
+    guid: eb4358480833345ad801d193d9b9a680
+  - enabled: 1
+    path: Assets/Scenes/Credit_Scene/Credit_Scene.unity
+    guid: a1c5de4e0db3d4d6d9f12c1fc522ae84
+  - enabled: 1
+    path: Assets/Scenes/Stay_Scene/Stay.unity
+    guid: e25146b5765a9427a8ce147dd1ad24fb
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: f77b47d8b6a1042ac83cf2fd221a81d2
+  - enabled: 1
+    path: Assets/Scenes/SampleStage/SampleStage_Scene.unity
+    guid: f421b6227f1902b42b89340d8978b71f
+  - enabled: 1
+    path: Assets/Scenes/Stage1_Scene/Stage1_Scene.unity
+    guid: ff6f7027a46b54966b2da82d632c36f0
+  - enabled: 1
+    path: Assets/Scenes/Stage2_Scene/Stage2_Scene.unity
+    guid: cdeb0ddf18d1342158755e933b2e60f1
+  - enabled: 0
+    path: Assets/Scenes/New Scene.unity
+    guid: 68f3fd6af20934e08bc78651b4063b6a
+  - enabled: 0
+    path: Assets/Settings/Scenes/URP2DSceneTemplate.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
